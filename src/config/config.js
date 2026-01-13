@@ -1,9 +1,9 @@
 module.exports = {
   token:
-    process.env.token || "MTQzNzc4MTcwNjY2ODExODAzNg.GbM_1N.cbgq0vVtlbckz4u1AnXxteiVBfaBtx95dzwmJc",
+    process.env.token || "",
   prefix: ".",
   color: "#bb00ff",
-  Mongo: "mongodb+srv://lunexa:op@lunexa.9ukuoej.mongodb.net/?appName=Lunexa",
+  Mongo: "",
   ownerIDS: ["1390894184512356392"],
   vote: false,
   image: "https://media.discordapp.net/attachments/1392487471370997761/1433841399110828204/Profile_Banner.png?ex=6906285d&is=6904d6dd&hm=be6fb1bef07b8641d8501a618ffca7068822a299f8f7733e6d6bae741c646b99&=&format=webp&quality=lossless&width=544&height=192",
